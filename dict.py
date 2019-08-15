@@ -16,7 +16,7 @@ def translate(word):
             elif yn=='n':
                 return 'word doesnot exist please cross verify'
             else:
-                return 'we did not understand your entry'
+                return 'sorry!!we did not understand your entry'
     else:
         exit()
 wordd = ''
